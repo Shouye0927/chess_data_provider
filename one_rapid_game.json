@@ -1,0 +1,358 @@
+[
+  {
+    "metadata": {
+      "Event": "Festivalul International - Cupa Rotary Unity Pitesti - sah rapid",
+      "Site": "https://lichess.org/broadcast/cupa-rotary-unity-pitesti-rapid/round-1/75aK8QG8/qmHyQvNJ",
+      "Date": "2026.04.04",
+      "Round": "1.1",
+      "White": "Szuhanek, Ranko",
+      "Black": "Chira, Eduard-Vasile",
+      "Result": "1-0",
+      "WhiteElo": "2401",
+      "WhiteTitle": "IM",
+      "WhiteFideId": "1202600",
+      "BlackElo": "1821",
+      "BlackFideId": "1285599",
+      "TimeControl": "10' + 10",
+      "Variant": "Standard",
+      "ECO": "D37",
+      "Opening": "Queen's Gambit Declined: Three Knights Variation",
+      "UTCDate": "2026.04.04",
+      "UTCTime": "10:29:03",
+      "BroadcastName": "Cupa Rotary Unity Pitesti - Rapid",
+      "BroadcastURL": "https://lichess.org/broadcast/cupa-rotary-unity-pitesti-rapid/round-1/75aK8QG8",
+      "GameURL": "https://lichess.org/broadcast/cupa-rotary-unity-pitesti-rapid/round-1/75aK8QG8/qmHyQvNJ"
+    },
+    "movesCount": 41,
+    "moves": [
+      {
+        "ply": 1,
+        "color": "white",
+        "notation": "Nf3",
+        "eval": 0.1,
+        "clk": "0:10:18",
+        "comment": "[%eval 0.1] [%clk 0:10:18]"
+      },
+      {
+        "ply": 2,
+        "color": "black",
+        "notation": "Nf6",
+        "eval": 0.18,
+        "clk": "0:10:16",
+        "comment": "[%eval 0.18] [%clk 0:10:16]"
+      },
+      {
+        "ply": 3,
+        "color": "white",
+        "notation": "c4",
+        "eval": 0.12,
+        "clk": "0:10:27",
+        "comment": "[%eval 0.12] [%clk 0:10:27]"
+      },
+      {
+        "ply": 4,
+        "color": "black",
+        "notation": "e6",
+        "eval": 0.16,
+        "clk": "0:10:15",
+        "comment": "[%eval 0.16] [%clk 0:10:15]"
+      },
+      {
+        "ply": 5,
+        "color": "white",
+        "notation": "Nc3",
+        "eval": 0.2,
+        "clk": "0:10:35",
+        "comment": "[%eval 0.2] [%clk 0:10:35]"
+      },
+      {
+        "ply": 6,
+        "color": "black",
+        "notation": "d5",
+        "eval": 0.14,
+        "clk": "0:10:23",
+        "comment": "[%eval 0.14] [%clk 0:10:23]"
+      },
+      {
+        "ply": 7,
+        "color": "white",
+        "notation": "d4",
+        "eval": 0.08,
+        "clk": "0:10:43",
+        "comment": "[%eval 0.08] [%clk 0:10:43]"
+      },
+      {
+        "ply": 8,
+        "color": "black",
+        "notation": "Be7",
+        "eval": 0.14,
+        "clk": "0:10:15",
+        "comment": "[%eval 0.14] [%clk 0:10:15]"
+      },
+      {
+        "ply": 9,
+        "color": "white",
+        "notation": "Bg5",
+        "eval": 0.09,
+        "clk": "0:10:51",
+        "comment": "[%eval 0.09] [%clk 0:10:51]"
+      },
+      {
+        "ply": 10,
+        "color": "black",
+        "notation": "c6",
+        "eval": 0.21,
+        "clk": "0:10:03",
+        "comment": "[%eval 0.21] [%clk 0:10:03]"
+      },
+      {
+        "ply": 11,
+        "color": "white",
+        "notation": "e3",
+        "eval": 0.18,
+        "clk": "0:10:58",
+        "comment": "[%eval 0.18] [%clk 0:10:58]"
+      },
+      {
+        "ply": 12,
+        "color": "black",
+        "notation": "h6",
+        "eval": 0.28,
+        "clk": "0:09:41",
+        "comment": "[%eval 0.28] [%clk 0:09:41]"
+      },
+      {
+        "ply": 13,
+        "color": "white",
+        "notation": "Bh4",
+        "eval": 0.12,
+        "clk": "0:11:05",
+        "comment": "[%eval 0.12] [%clk 0:11:05]"
+      },
+      {
+        "ply": 14,
+        "color": "black",
+        "notation": "O-O",
+        "eval": 0.16,
+        "clk": "0:09:48",
+        "comment": "[%eval 0.16] [%clk 0:09:48]"
+      },
+      {
+        "ply": 15,
+        "color": "white",
+        "notation": "Qc2",
+        "eval": 0.34,
+        "clk": "0:11:12",
+        "comment": "[%eval 0.34] [%clk 0:11:12]"
+      },
+      {
+        "ply": 16,
+        "color": "black",
+        "notation": "dxc4",
+        "eval": 0.53,
+        "clk": "0:09:34",
+        "comment": "[%eval 0.53] [%clk 0:09:34]"
+      },
+      {
+        "ply": 17,
+        "color": "white",
+        "notation": "Bxc4",
+        "eval": 0.5,
+        "clk": "0:11:19",
+        "comment": "[%eval 0.5] [%clk 0:11:19]"
+      },
+      {
+        "ply": 18,
+        "color": "black",
+        "notation": "Nd5",
+        "eval": 0.72,
+        "clk": "0:09:42",
+        "comment": "[%eval 0.72] [%clk 0:09:42]"
+      },
+      {
+        "ply": 19,
+        "color": "white",
+        "notation": "Bxe7",
+        "eval": 0.38,
+        "clk": "0:10:48",
+        "comment": "[%eval 0.38] [%clk 0:10:48]"
+      },
+      {
+        "ply": 20,
+        "color": "black",
+        "notation": "Qxe7",
+        "eval": 0.42,
+        "clk": "0:09:31",
+        "comment": "[%eval 0.42] [%clk 0:09:31]"
+      },
+      {
+        "ply": 21,
+        "color": "white",
+        "notation": "a3",
+        "eval": 0.11,
+        "clk": "0:10:22",
+        "comment": "[%eval 0.11] [%clk 0:10:22]"
+      },
+      {
+        "ply": 22,
+        "color": "black",
+        "notation": "Nd7",
+        "eval": 0.21,
+        "clk": "0:09:00",
+        "comment": "[%eval 0.21] [%clk 0:09:00]"
+      },
+      {
+        "ply": 23,
+        "color": "white",
+        "notation": "Rd1",
+        "eval": -0.1,
+        "clk": "0:10:16",
+        "comment": "[%eval -0.1] [%clk 0:10:16]"
+      },
+      {
+        "ply": 24,
+        "color": "black",
+        "notation": "Re8",
+        "eval": 0.4,
+        "clk": "0:06:52",
+        "comment": "[%eval 0.4] [%clk 0:06:52]"
+      },
+      {
+        "ply": 25,
+        "color": "white",
+        "notation": "O-O",
+        "eval": 0.19,
+        "clk": "0:10:02",
+        "comment": "[%eval 0.19] [%clk 0:10:02]"
+      },
+      {
+        "ply": 26,
+        "color": "black",
+        "notation": "Nxc3",
+        "eval": 0.26,
+        "clk": "0:05:52",
+        "comment": "[%eval 0.26] [%clk 0:05:52]"
+      },
+      {
+        "ply": 27,
+        "color": "white",
+        "notation": "Qxc3",
+        "eval": 0.21,
+        "clk": "0:10:07",
+        "comment": "[%eval 0.21] [%clk 0:10:07]"
+      },
+      {
+        "ply": 28,
+        "color": "black",
+        "notation": "e5?",
+        "eval": 1.76,
+        "clk": "0:05:59",
+        "comment": "[%eval 1.76] | Mistake. b6 was best. | [%clk 0:05:59]"
+      },
+      {
+        "ply": 29,
+        "color": "white",
+        "notation": "Nxe5",
+        "eval": 1.74,
+        "clk": "0:09:25",
+        "comment": "[%eval 1.74] [%clk 0:09:25]"
+      },
+      {
+        "ply": 30,
+        "color": "black",
+        "notation": "Nxe5",
+        "eval": 1.62,
+        "clk": "0:06:07",
+        "comment": "[%eval 1.62] [%clk 0:06:07]"
+      },
+      {
+        "ply": 31,
+        "color": "white",
+        "notation": "dxe5",
+        "eval": 1.66,
+        "clk": "0:09:34",
+        "comment": "[%eval 1.66] [%clk 0:09:34]"
+      },
+      {
+        "ply": 32,
+        "color": "black",
+        "notation": "Qxe5??",
+        "eval": 4.22,
+        "clk": "0:06:16",
+        "comment": "[%eval 4.22] | Blunder. Be6 was best. | [%clk 0:06:16]"
+      },
+      {
+        "ply": 33,
+        "color": "white",
+        "notation": "Qxe5",
+        "eval": 3.91,
+        "clk": "0:09:42",
+        "comment": "[%eval 3.91] [%clk 0:09:42]"
+      },
+      {
+        "ply": 34,
+        "color": "black",
+        "notation": "Rxe5",
+        "eval": 3.93,
+        "clk": "0:06:23",
+        "comment": "[%eval 3.93] [%clk 0:06:23]"
+      },
+      {
+        "ply": 35,
+        "color": "white",
+        "notation": "Rd8+",
+        "eval": 3.9,
+        "clk": "0:09:51",
+        "comment": "[%eval 3.9] [%clk 0:09:51]"
+      },
+      {
+        "ply": 36,
+        "color": "black",
+        "notation": "Kh7",
+        "eval": 3.7,
+        "clk": "0:06:24",
+        "comment": "[%eval 3.7] [%clk 0:06:24]"
+      },
+      {
+        "ply": 37,
+        "color": "white",
+        "notation": "Bxf7",
+        "eval": 3.89,
+        "clk": "0:09:53",
+        "comment": "[%eval 3.89] [%clk 0:09:53]"
+      },
+      {
+        "ply": 38,
+        "color": "black",
+        "notation": "b6?!",
+        "eval": 6,
+        "clk": "0:06:24",
+        "comment": "[%eval 6.0] | Inaccuracy. g6 was best. | [%clk 0:06:24]"
+      },
+      {
+        "ply": 39,
+        "color": "white",
+        "notation": "Bg8+",
+        "eval": 5.9,
+        "clk": "0:09:25",
+        "comment": "[%eval 5.9] [%clk 0:09:25]"
+      },
+      {
+        "ply": 40,
+        "color": "black",
+        "notation": "Kg6",
+        "eval": 5.89,
+        "clk": "0:06:27",
+        "comment": "[%eval 5.89] [%clk 0:06:27]"
+      },
+      {
+        "ply": 41,
+        "color": "white",
+        "notation": "Rd6+",
+        "eval": 5.73,
+        "clk": "0:08:56",
+        "comment": "[%eval 5.73] [%clk 0:08:56]"
+      }
+    ]
+  }
+]
